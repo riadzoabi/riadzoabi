@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riad Zoabi</h1>
 <h3 align="center">2nd Year B.Sc. Information Systems Engineering Student | Proficient in Python, Java,C, SQL, UI Design | Passionate about Transformative Tech Solutions</h3>
 
-- 📫 How to reach me **me@riadzoabi.comm**
+- 📫 How to reach me **me@riadzoabi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
